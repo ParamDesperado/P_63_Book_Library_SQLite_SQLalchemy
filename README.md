@@ -7,6 +7,12 @@ A simple and elegant web application to manage your personal book collection. Th
 ## 📖 About
 My Library is a CRUD (Create, Read, Update, Delete) application built with **Flask** and **SQLAlchemy**. It serves as a digital bookshelf where you can keep track of the books you own or have read, along with your personal ratings for each.
 
+## 📸 Screenshots
+
+| <img width="503" height="268" alt="Home page" src="https://github.com/user-attachments/assets/2404d2a0-c1f4-46b5-a811-0f5496bbe1ab" />
+| <img width="787" height="206" alt="add book" src="https://github.com/user-attachments/assets/742cfcd4-cdfc-4571-bb7a-de63b8897455" />
+ 
+
 ## ✨ Features
 * **View Library:** Display a list of all books in your collection.
 * **Add New Books:** Input book details including Title, Author, and a Rating out of 10.
@@ -19,13 +25,6 @@ My Library is a CRUD (Create, Read, Update, Delete) application built with **Fla
 * **Database:** SQLite, Flask-SQLAlchemy
 * **Frontend:** HTML, CSS (Jinja2 Templates)
 
-## 📸 Screenshots
-
-| Home Page | Add New Book |
-| :---: | :---: |
-| <img width="503" height="268" alt="Home page" src="https://github.com/user-attachments/assets/2404d2a0-c1f4-46b5-a811-0f5496bbe1ab" />
-| <img width="787" height="206" alt="add book" src="https://github.com/user-attachments/assets/742cfcd4-cdfc-4571-bb7a-de63b8897455" />
- 
 ## 🚀 Getting Started
 
 ### Prerequisites
